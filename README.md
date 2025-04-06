@@ -4,4 +4,4 @@ vectorized embeddings can be downloaded here: [vector_db.zip](https://drive.goog
 
 cleaned data can be accessed here: [cleaned-data](https://drive.google.com/drive/folders/1-3zG0jjoVbOYzkidNWifOgQww5WVgVXT?usp=sharing) 
 
-Note: add shortcut to drive and copy file path when being used to run the code
+Note: add shortcut to drive and copy file path when being used to run the code. the python notebook "gieni_recursive_char_text_split.ipynb" can be used for the vector embeddings above and cleaned dataset
